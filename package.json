@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jsdom": "^20.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "dom-check.js",
+  "directories": {
+    "test": "tests"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
